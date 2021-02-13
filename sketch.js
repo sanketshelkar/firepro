@@ -128,12 +128,12 @@ function draw(){
   //velocity
   monster.setVelocity(5,0) 
 
- //bounce off
-  //alok.bounceOff(b)
-  //alok.bounceOff(b2)
-  //alok.bounceOff(b3)
-  //alok.bounceOff(wall2)
-  //alok.bounceOff(wall)
+  //bounce off
+  alok.bounceOff(b)
+  alok.bounceOff(b2)
+  alok.bounceOff(b3)
+  alok.bounceOff(wall2)
+  alok.bounceOff(wall)
   alok.bounceOff(mede_wall)
   alok.bounceOff(mede_wall1)
   alok.bounceOff(mede_wall2)
